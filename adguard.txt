@@ -12,4 +12,4 @@ pagead2.googlesyndication.com
 youtube-nocookie.com
 youtube.googleapis.com
 ytimg.com##.ads-iframe
-
+click.inquirer.net
