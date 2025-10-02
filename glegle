@@ -1,0 +1,9 @@
+/^r\d+-+sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+/^r\d+\.sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+/^r\d+\.sn+-+[a-z0-9]+\.[a-z]+\.[a-z]+\.gvt1\.com$/
+/^r\d+-+sn+-+[a-z0-9]+\.gvt1\.com$/
+/^rr\d+-+sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+/^rr\d+\.sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+/^rr\d+\.sn+-+[a-z0-9]+\.[a-z]+\.[a-z]+\.gvt1\.com$/
+/^rr\d+-+sn+-+[a-z0-9]+\.gvt1\.com$/
+/^pagead\d+\.googlesyndication\.com$/
