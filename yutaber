@@ -1,0 +1,1 @@
+^(r{1,2}\d+(-+sn-[a-z0-9]+(-[a-z0-9]+)?|\.sn-[a-z0-9]+(-[a-z0-9]+)?|\.sn-[a-z0-9]+\.[a-z]+\.[a-z]+)\.(googlevideo\.com|gvt1\.com)|yt\d+\.ggpht\.com|pagead\d+\.googlesyndication\.com)$
